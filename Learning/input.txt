@@ -1,0 +1,19 @@
+UCS
+A
+F
+7
+A B 1
+B E 1
+B C 1
+A D 2
+D F 1
+C F 1
+E F 1
+6
+A 5
+B 6
+C 7
+D 1
+E 1
+F 0
+

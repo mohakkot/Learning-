@@ -1,0 +1,5 @@
+Aarad Bucharest 5
+Aarad Chico 3
+Bucharest Dallas 1
+Chico Dallas 2
+Bucharest Aarad 7

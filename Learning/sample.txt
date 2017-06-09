@@ -1,0 +1,13 @@
+BFS
+Aarad
+Dallas
+4
+Aarad Bucharest 5
+Aarad Chico 3
+Bucharest Dallas 1
+Chico Ddallas 2
+4
+Aarad 4
+Bucharest 1
+Chico 1
+Dallas 0
